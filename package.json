@@ -1,7 +1,6 @@
 {
   "jspm": {
     "name": "jspmhackingshared",
-    "main": "index",
     "dependencies": {
       "jquery": "^2.1.3"
     }
