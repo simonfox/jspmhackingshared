@@ -1,7 +1,6 @@
 {
   "jspm": {
     "name": "jspmhackingshared",
-    "main": "src/index.js",
     "directories": {
       "lib": "src"
     },
