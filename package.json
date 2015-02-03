@@ -2,10 +2,10 @@
   "jspm": {
     "name": "jspmhackingshared",
     "version": "0.0.9",
-    "main": "src/index"
+    "main": "src/index",
     "directories": {
       "lib": "src"
-    }
+    },
     "dependencies": {
       "jquery": "^2.1.3"
     }
