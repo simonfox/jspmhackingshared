@@ -2,10 +2,15 @@
   "jspm": {
     "name": "jspmhackingshared",
     "version": "0.0.9",
-    "main": "index",
     "format" : "es6",
+    "main": "index",
     "directories": {
       "lib": "src"
+    },
+    "shim": {
+      "format": "global",
+      "deps": ["jquery"],
+      "exports": "Bootstrap"
     },
     "dependencies": {
       "jquery": "^2.1.3"
