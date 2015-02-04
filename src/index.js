@@ -8,5 +8,5 @@ class Bootstrap {
 }
 
 export bootstrap = function() {
-	retuurn new Bootstrap();
+	return new Bootstrap();
 };
