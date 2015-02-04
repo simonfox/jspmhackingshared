@@ -3,6 +3,7 @@
     "name": "jspmhackingshared",
     "version": "0.0.9",
     "main": "index",
+    "format" : "es6"
     "directories": {
       "lib": "src"
     },
