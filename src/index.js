@@ -1,4 +1,4 @@
-//import { bootstrap } from './bootstrap';
-//export bootstrap;
-console.log("DRV");
+import { bootstrap } from './bootstrap';
+bootstrap();
+
 
