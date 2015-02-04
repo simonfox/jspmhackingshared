@@ -1,2 +1,2 @@
 import { Bootstrap } from './bootstrap';
-export Bootstrap;
+new Bootstrap();
