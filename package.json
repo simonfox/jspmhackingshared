@@ -7,11 +7,6 @@
     "directories": {
       "lib": "src"
     },
-    "shim": {
-      "format": "global",
-      "deps": ["jquery"],
-      "exports": "Bootstrap"
-    },
     "dependencies": {
       "jquery": "^2.1.3"
     }
