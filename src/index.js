@@ -1,4 +1,4 @@
-import { Bootstrap } from 'src/bootrap';
+import { Bootstrap } from 'bootrap';
 
 export bootstrap = function() {
 	return new Bootstrap();
