@@ -2,7 +2,7 @@
   "jspm": {
     "name": "jspmhackingshared",
     "version": "0.0.9",
-    "main": "src/index",
+    "main": "src/index.js",
     "directories": {
       "lib": "src"
     },
