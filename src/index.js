@@ -1,1 +1,3 @@
-export { Bootstrap } from './bootstrap';
+import { bootstrap } from './bootstrap';
+bootstrap();
+
