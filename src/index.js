@@ -1,5 +1,5 @@
-import { Bootstrap } from './bootstrap';
+import { Bootstrap } from './bootstrap'
 
 export function bootstrap() {
-	return new Bootstrap();
-};
+	return new Bootstrap()
+}

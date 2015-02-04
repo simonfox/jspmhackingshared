@@ -1,8 +1,8 @@
-import $ from 'jquery';
+import $ from 'jquery'
 
 export class Bootstrap {
 	constructor() {
-		console.log("simon");
-		console.log($.fn.jquery);
+		console.log("simon")
+		console.log($.fn.jquery)
 	}
 }
